@@ -25,6 +25,8 @@ Hi! Welcome to my GitHub Profile.
 <img src="https://imgr.search.brave.com/hyY9KdzqfYnM-R4qbZyGKE2GCB6wxXgw2Kovrx725fQ/fit/1200/1200/ce/1/aHR0cHM6Ly8yLmJw/LmJsb2dzcG90LmNv/bS8tVUlDcXV2MWRC/TVUvWEdZSVhxeWhL/ZUkvQUFBQUFBQUFS/OE0vRXZqdDNBRFVZ/RVlxd0RIUExobF9s/SzVfRlRyYl9WWnBn/Q0xjQkdBcy9zMTYw/MC9KYXZhLnBuZw" alt="Java" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.mathworks.com/products/matlab.html">
 <img src="https://imgr.search.brave.com/DvBfEwMlSXjwHrk4p2cClaGaeP6egNgbPT13AfjSguQ/fit/897/806/ce/1/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzIxL01hdGxhYl9M/b2dvLnBuZw" alt="MATLAB" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.cplusplus.com/">
+<img src="https://img.search.brave.com/enObmoCmrMl_inNeTdofjG_hnVljSfkRiZQ4GXpaGSo/fit/1200/1200/ce/1/aHR0cHM6Ly9zZHRp/bWVzLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOC8wMy9j/cHBwcC5wbmc" alt="C++" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
